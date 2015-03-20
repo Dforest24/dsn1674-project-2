@@ -29,3 +29,19 @@ header img {
 	position: absolute;
 	left: calc(50% - 32.5px);
 }
+body {
+	margin: 0;
+}
+.banner{
+	position: relative;
+}
+.banner img{
+	width: 100%;
+}
+.banner h1{
+	position: absolute;
+	bottom: .3em;
+	text-align: center;
+	color: white;
+	font-style: italic;
+ 	text-shadow: 1px 1px 5px black;
