@@ -1,0 +1,31 @@
+html{
+	box-sizing: border-box;
+	font-family: 'Noto Sans', sans-serif;
+}
+*, *::before, *::after{
+	box-sizing: inherit;
+}
+  header {
+  background-color: #e7001d;
+	padding: 1rem 0;
+	color: white;
+	position: relative;
+	text-align: center;
+}
+header h1 {
+	margin: 0;
+  position: relative;
+  text-shadow: 1px 1px 5px black;
+}
+header p {
+	font-size: 10px;
+  position: relative;
+  top: 3px;
+  margin: 0;
+  text-shadow: 1px 1px 5px black;
+}
+header img {
+	width: 65px;
+	position: absolute;
+	left: calc(50% - 32.5px);
+}
