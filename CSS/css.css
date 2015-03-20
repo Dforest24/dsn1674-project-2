@@ -133,3 +133,10 @@ main p{
   font-style: italic;
   font-size: 11px;
 }
+footer {
+background-color: #222222;
+text-align: center;
+text-decoration: underline;
+padding: 1.75em;
+font-size: .7em;
+}
