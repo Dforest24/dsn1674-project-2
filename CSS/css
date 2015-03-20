@@ -31,9 +31,9 @@ header img {
 }
 body {
 	margin: 0;
-}
-.banner{
+}.banner{
 	position: relative;
+	width: 100%;
 }
 .banner img{
 	width: 100%;
@@ -42,6 +42,7 @@ body {
 	position: absolute;
 	bottom: .3em;
 	text-align: center;
+	width: 100%;
 	color: white;
 	font-style: italic;
  	text-shadow: 1px 1px 5px black;
