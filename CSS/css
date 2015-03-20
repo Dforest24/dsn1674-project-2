@@ -67,3 +67,22 @@ body {
  	text-decoration: none;
  	color: white;
  }
+}
+main p{
+	margin: 1em .5em;
+}
+.dragon img {
+	width: 40%;
+	float: left;
+	margin-left: 6.5%;
+}
+.dragon {
+	background-color: #e4c22a;
+	padding: .5em;
+	text-align: center;
+}
+.dragon p {
+	 clear: left;
+  font-style: italic;
+  font-size: 11px;
+}
